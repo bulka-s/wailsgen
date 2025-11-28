@@ -1,11 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/bulka-s/wails-ts/styles"
+	"github.com/bulka-s/wailsgen/menu"
 )
 
 func main() {
-	fmt.Println(styles.Bold + styles.Green + "Hello, Wails!" + styles.Reset)
+	menu.Input()
 }

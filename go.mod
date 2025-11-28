@@ -1,3 +1,3 @@
-module github.com/bulka-s/wails-ts
+module github.com/bulka-s/wailsgen
 
 go 1.25.3

@@ -20,4 +20,6 @@ const (
 	BulletUnselected  = "○"
 	CheckboxChecked   = "☑"
 	CheckboxUnchecked = "☐"
+	Rhomb             = "◇"
+	RhombFill         = "◆"
 )
